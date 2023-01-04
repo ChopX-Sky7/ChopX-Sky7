@@ -1,4 +1,4 @@
 - Dmitry "Sky7" Yaschenko
-- I’m interested in backend, Java, JavaFX, GameDesign, and other things a not related to programming 
-- Сurrently learning Java and Java Spring. Little bit PHP, Laravel and SQL
+- I’m interested in backend, Java, JavaFX, GameDesign, Algoritms and other things a not related to programming 
+- Сurrently learning Java and Spring.
 - If u want reach me: @regulexper tg 
